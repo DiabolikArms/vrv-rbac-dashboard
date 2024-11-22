@@ -70,19 +70,15 @@ A feature-rich, secure, and responsive Role-Based Access Control (RBAC) dashboar
    ```bash
    git clone https://github.com/DiabolikArms/vrv-rbac-dashboard.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd rbac-dashboard
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
-5. Open the application in your browser at `http://localhost:3000`.
+4. Open the application in your browser at localhost.
 
 ---
 
